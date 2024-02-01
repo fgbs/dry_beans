@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+path_one:
+  id: 1
+  purpose: WITHDRAWAL
+  distance: 1
+  start_at: 2024-01-18 09:47:13
+  end_at: 2024-01-18 09:47:13
+  estimated_time: 1.5
+  journey_id: 1
+
+path_two:
+  id: 2
+  purpose: DELIVERY
+  distance: 1
+  start_at: 2024-01-18 09:47:13
+  end_at: 2024-01-18 09:47:13
+  estimated_time: 1.5
+  journey_id: 1

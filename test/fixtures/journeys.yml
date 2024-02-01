@@ -1,0 +1,7 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+journey_one:
+  id: 1
+  date: 2024-01-18
+  status: ACTIVE
+  pathway_id: 1
